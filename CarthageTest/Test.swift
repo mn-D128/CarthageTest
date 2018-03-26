@@ -8,7 +8,7 @@
 
 import Foundation
 
-class Test {
+public class Test {
     
     public class var output: String {
         return "output"
